@@ -7,7 +7,7 @@ This is Brainfuck interpreter and compiler.
 
 ## Usage
 
-cat <Brainfuck script> | lua bf.lua [options]
+`cat <Brainfuck script> | lua bf.lua [options]`
 
 ### Options
 
